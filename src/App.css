@@ -1,0 +1,25 @@
+body {
+  background-color: #ccc;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.book {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.book img {
+  max-width: 100%;
+  height: auto;
+}
+
+.book p {
+  color:white;
+  margin-top: 10px;
+}
